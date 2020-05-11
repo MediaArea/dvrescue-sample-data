@@ -1,2 +1,2 @@
 # dv-rescue-sample-data
-Public repository of open copyright sample DV files for the identification and processing of errors
+Public repository of more or less open copyright sample DV files for the identification and processing of errors
